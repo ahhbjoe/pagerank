@@ -1,4 +1,9 @@
+.idea/
+pagerank*/
+test/
 target/
+transition/
+unit_product*/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
